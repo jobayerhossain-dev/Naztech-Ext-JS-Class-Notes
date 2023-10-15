@@ -1,15 +1,16 @@
 # Naztech-Ext-JS-Class-Notes
+
 ## Course Overview
 
 - Fronted Development with ExtJS. (JavaScript framework)
 
 ## Index
 
-1. [Theory](./class%20notes/cw.md)
-2. [Practical](./class%20notes/hw.md)
-3. [PDF file](./class%20notes/pdf_files)
+1. [Theory](./cw.md)
+2. [Practical](./hw.md)
+3. [PDF file](./pdf_files)
 
-## Resources
+## Learning resources
 ### HTML and CSS
 
 YouTube:
@@ -28,6 +29,8 @@ YouTube:
 - [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4) by _Telusko_
 - [JavaScript Bangla Tutorial | JS Bangla Tutorial Series for Beginners](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy) by _Learn with Sumit - LWS - Bangladesh_
 - [W3Schools - JavaScript](https://www.w3schools.com/js/)
+
+[see more](./pdf_files/Learning_Resources.pdf)
 
 ### Documentation
 

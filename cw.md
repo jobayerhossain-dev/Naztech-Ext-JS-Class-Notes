@@ -1,4 +1,4 @@
-## 📝Theory
+# 📝Theory
 
 ### What is ExtJS?
 <P style="text-align: justify;"> 
@@ -8,21 +8,22 @@ Ext JS is a JavaScript framework for building <strong> cross-platform web applic
 <P style="text-align: justify;">
 A framework is a pre-built and structured software or conceptual foundation that provides a set of tools, libraries, and guidelines to help developers create applications, software components, or other systems easily.</p>
 
-> Framework advantages
-1. Structure and Organize
-2. Efficiency
-3. Consistency
-4. Reusability
-5. Community and Support
-6. Security
-7. Scalability
-8. Cost-Effectiveness
-9. Flexibility
-10. Quality Assurance
-11. Documentation
-12. Ecosystem
-13. Project Management
-14. Decision-Making
+* Framework advantages
+    * Structure and Organize
+    * Efficiency
+    * Consistency
+    * Reusability
+    * Community and Support
+    * Security
+    * Scalability
+    * Cost-Effectiveness
+    * Flexibility
+    * Quality Assurance
+    * Documentation
+    * Ecosystem
+    * Project Management
+    * Decision-Making
+
 
 ### Which design pattern is followed by ExtJS?
 - MVC (Model View Controll)
@@ -31,7 +32,10 @@ Learn more about [App Architecture](https://docs.sencha.com/extjs/7.6.0/guides/a
 
 ### What are the difference between xtype and alias?
 
+> 'xtype' is a configuration option in Ext JS used to specify the type of a component when creating instances of it. (Instances are concrete representations of components created from their classes in Ext JS, specifying their type when used.)
 
+
+> 'alias' is used to define the relationship between the xtype and the component class.
 
 
 
@@ -40,6 +44,6 @@ They all are referance caller like html & css class or id calling.
 
 
 
-_Note: Maximum time you work some files and folders.  
+_Note: Maximum time you have to work some files and folders.  
 The folder name: app, classic, resources, store etc.  
 The file name: App.js, App.json, index.html, MainController.js, Personal.js, List.js, Application.scss_
